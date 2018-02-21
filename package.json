@@ -1,0 +1,22 @@
+{
+  "name": "@realtycoast/objects",
+  "version": "1.0.0",
+  "description": "objects bruh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xemasiv/objects.git"
+  },
+  "keywords": [
+    "realtycoast"
+  ],
+  "author": "xemasiv",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/xemasiv/objects/issues"
+  },
+  "homepage": "https://github.com/xemasiv/objects#readme"
+}
