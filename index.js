@@ -235,10 +235,30 @@ const RequestStatus = {
   FAIL: 'FAIL'
 };
 
+const MessagingType = {
+  RESPONSE: 'RESPONSE',
+  UPDATE: 'UPDATE'
+}
+
+const MessageAttachmentTypes = {
+  IMAGE: 'IMAGE',
+  AUDIO: 'AUDIO',
+  VIDEO: 'VIDEO',
+  FILE: 'FILE'
+};
+
+class Listing_v1 {
+  constructor () {
+
+  }
+}
+
 export default {
   RequestStatus,
   ListingCategories,
   ListingSubCategories,
   PropertyTypes,
-  PropertySubTypes
+  PropertySubTypes,
+  MessagingType,
+  MessageAttachmentTypes
 }
